@@ -1,20 +1,20 @@
-# Hi there, I'm Benjamin 👋
+# Hi there, I'm Tu Nombre 👋
 
 ### 🛡️ Software & Automation Engineer @ Apries SPA | PWA & Security Specialist
 
-> **Status:** 🟢 Desarrollando PWAs & Automatización | Especializándome en Ciberseguridad | 📍 **Location:** Santiago, Chile
+> **Status:** 🟢 Desarrollando PWAs & Automatización | Especializándome en Ciberseguridad | 📍 **Location:** Chile
 
 Software Engineer en Apries SPA especializado en el desarrollo de Aplicaciones Web Progresivas (PWAs) de alto rendimiento y arquitectura de automatización de procesos. Enfocado activamente en la convergencia entre desarrollo moderno y ciberseguridad, aplicando principios de Application Security (AppSec) y DevSecOps.
 
 ## 📌 About Me
 
-- 💻 Rol Actual: Desarrollador de Software en Apries SPA, enfocado en Aplicaciones Web Progresivas (PWAs).
-- ⚙️ Automatización: Diseñando e implementando flujos de automatización de procesos e integración de sistemas.
-- 🔒 Enfoque de Seguridad: Especializándome en Application Security (AppSec), DevSecOps y código seguro (OWASP Top 10).
-- 🛠️ Stack Principal:PWAs, JavaScript/TypeScript, n8n, Python, Bash, Linux, Docker, Git & Security Tools.
-- 🎯 Meta Profesional: Construir aplicaciones web resilientes, automatizadas e inmunes a vulnerabilidades.
-- 💬 Pregúntame sobre: Desarrollo de PWAs, automatización de tareas y hacking ético / auditoría de código.
-- 📬 Cómo contactarme: Vía LinkedIn o Email profesional.
+- 💻 **Rol Actual:** Desarrollador de Software en **Apries SPA**, enfocado en Aplicaciones Web Progresivas (PWAs).
+- ⚙️ **Automatización:** Diseñando e implementando flujos de automatización de procesos e integración de sistemas.
+- 🔒 **Enfoque de Seguridad:** Especializándome en **Application Security (AppSec)**, **DevSecOps** y código seguro (OWASP Top 10).
+- 🛠️ **Stack Principal:** PWAs, JavaScript/TypeScript, Python, Bash, Linux, Docker, Git & Security Tools.
+- 🎯 **Meta Profesional:** Construir aplicaciones web resilientes, automatizadas e inmunes a vulnerabilidades.
+- 💬 **Pregúntame sobre:** Desarrollo de PWAs, automatización de tareas y hacking ético / auditoría de código.
+- 📬 **Cómo contactarme:** Vía LinkedIn o Email profesional.
 
 ## 🛠️ Tech Stack & Security Tools
 
@@ -25,27 +25,23 @@ Software Engineer en Apries SPA especializado en el desarrollo de Aplicaciones W
 ### [📱 PWA Apries Enterprise Modules](#) 
 Desarrollo de módulos web progresivos para Apries SPA con soporte offline, Service Workers y alta disponibilidad.
 
-* **Tech & Tools:** `PWA, JavaScript/TypeScript, Service Workers, Bubble.io`
+* **Tech & Tools:** `PWA, JavaScript/TypeScript, Service Workers`
 
 ### [⚙️ Process Automation Engine](#) 
 Scripts e integraciones automatizadas para la optimización de procesos operativos y pipelines de datos.
 
-* **Tech & Tools:** `Python, Bash, CI/CD, Cron, Excel, n8n`
+* **Tech & Tools:** `Python, Bash, CI/CD, Cron`
+
+### [📚 LitMate](https://github.com/tu-usuario/litmate) 
+Aplicación web progresiva (PWA) interactiva para la gestión inteligente de lecturas, organización de contenidos y experiencia offline.
+
+* **Tech & Tools:** `PWA, JavaScript/TypeScript, Web APIs, LocalStorage`
 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=benjamintoro&show_icons=true&theme=slate&hide_border=true" alt="benjamintoro's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjamintoro&layout=compact&theme=slate&hide_border=true" alt="Top Languages" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=benjamintoro&theme=slate&hide_border=true" alt="Streak Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=slate&hide_border=true" alt="tu-usuario's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=slate&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=slate&hide_border=true" alt="Streak Stats" height="165" />
 </p>
 
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/benjamin-toro-flores/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:benjamin.torof19@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
----
-*Generated with 🛡️ GitHub Profile Builder for Cybersecurity & Software Developers*
