@@ -11,7 +11,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Desarrollando%20PWAs%20%26%20Automatizaci%C3%B3n-22c55e?style=for-the-badge&logo=statuspage&logoColor=white)
 ![Location](https://img.shields.io/badge/Chile-0f172a?style=for-the-badge&logo=googlemaps&logoColor=06b6d4)
-![Profile Views](https://komarev.com/ghpvc/?username=tu-usuario&style=for-the-badge&color=1e3a8a&label=VISITAS)
+![Profile Views](https://komarev.com/ghpvc/?username=benjamintoro&style=for-the-badge&color=1e3a8a&label=VISITAS)
 
 </div>
 
@@ -88,7 +88,7 @@ benjamin:
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
         <img src="https://img.shields.io/badge/Web%20APIs-0f172a?style=flat-square"/>
       </p>
-      <p align="center"><a href="https://github.com/tu-usuario/litmate"><b>Ver repo →</b></a></p>
+      <p align="center"><a href="https://github.com/benjamintoro/litmate"><b>Ver repo →</b></a></p>
     </td>
   </tr>
 </table>
@@ -99,12 +99,12 @@ benjamin:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=06b6d4&icon_color=06b6d4&text_color=cbd5e1&rank_icon=github" alt="GitHub Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=06b6d4&text_color=cbd5e1" alt="Top Languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=benjamintoro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=06b6d4&icon_color=06b6d4&text_color=cbd5e1&rank_icon=github" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjamintoro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=06b6d4&text_color=cbd5e1" alt="Top Languages"/>
 
-<img src="https://streak-stats.demolab.com?user=tu-usuario&theme=tokyonight&hide_border=true&background=0f172a&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4" alt="Streak Stats"/>
+<img src="https://streak-stats.demolab.com?user=benjamintoro&theme=tokyonight&hide_border=true&background=0f172a&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4" alt="Streak Stats"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tu-usuario&bg_color=0f172a&color=cbd5e1&line=06b6d4&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=benjamintoro&bg_color=0f172a&color=cbd5e1&line=06b6d4&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 
 </div>
 
@@ -114,9 +114,9 @@ benjamin:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
-[![Email](https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=06b6d4)](mailto:tu-email@dominio.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=06b6d4)](mailto:benjamintorof19@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/benjamintoro)
 
 </div>
 
